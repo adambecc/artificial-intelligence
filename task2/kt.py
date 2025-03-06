@@ -1,5 +1,3 @@
-"""
-
 def run_test(n, start_x, start_y, test_num):
     short_filename = f"out-short-{test_num}.txt"
     long_filename = f"out-long-{test_num}.txt"
@@ -94,5 +92,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-
-"""
