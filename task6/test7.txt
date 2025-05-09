@@ -1,0 +1,7 @@
+1) Rules
+Z, C D // R1: C, D -> Z
+Y, C E // R2: C, E -> Y
+2) Facts
+C, D
+3) Goal
+Y

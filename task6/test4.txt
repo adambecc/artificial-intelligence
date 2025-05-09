@@ -1,0 +1,10 @@
+1) Rules
+Z, A // R1: A -> Z
+A, B // R2: B -> A
+C , T // R3: T -> C
+B, A C // R4: A, C -> B
+B, T // R5: T -> B
+2) Facts
+T
+3) Goal
+Z
